@@ -1,0 +1,40 @@
+.categories__title {
+    font-size: 60px;
+    font-weight: 700;
+    margin-left: 75px;
+}
+
+.categories__table {
+    width: 90%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.categories__cell {
+    border: 1px solid #eae9e7;
+    padding: 50px;
+}
+
+.categories__subtitle {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.categories__text {
+    font-size: 20px;
+}
+
+.categories__signature {
+    font-style: italic;
+}
+
+.categories {
+    display: flex;
+    flex-direction: column;
+}
+
+.categories__link {
+    margin-top: 55px;
+    margin-bottom: 140px;
+}

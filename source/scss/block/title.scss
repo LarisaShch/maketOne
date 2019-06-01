@@ -1,0 +1,27 @@
+.title {
+    min-height: 800px;
+    background-image: url(../img/FONT.webp);
+    background-position: right;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+.title__text {
+    position: absolute;
+    right: 190px;
+    top: 250px;
+    color: #fff;
+}
+
+.title__smile {
+    font-size: 220px;
+    font-weight: 100;
+    margin: 0;
+}
+
+.title__bold {
+    font-size: 64px;
+    font-weight: 700;
+    margin: 0;
+}

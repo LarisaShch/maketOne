@@ -1,0 +1,19 @@
+.comments {
+    display: flex;
+    background-color: #ffe9e2;
+}
+
+.comments__text {
+    font-size: 36px;
+    font-weight: 700;    
+    padding-top: 130px;
+    width: 570px;
+    margin: 0 auto;
+}
+.comments__author {
+    font-weight: 200;
+}
+
+.comments__img {
+    background: #d9d2ce;
+}

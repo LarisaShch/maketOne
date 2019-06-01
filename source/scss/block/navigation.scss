@@ -1,0 +1,22 @@
+.navigation {
+    background: #808a99;
+    height: 60px;
+}
+
+.navigation__list {
+    margin-top: 0;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.navigation__list li {
+    display: inline-block;
+}
+
+.navigation__link {
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
