@@ -1,0 +1,24 @@
+.item {
+    background-image: url('../img/hand.webp');
+    min-height: 450px;
+    padding-top: 200px;
+}
+
+.item__title {
+    font-size: 60px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    width: 850px;
+    margin: 0 auto;
+}
+
+.item__text {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.item__text span {
+    text-decoration: underline;
+}

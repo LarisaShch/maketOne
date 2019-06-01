@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffff;
+    width:100%;
+    font-family: "Raleway";
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: black;
+}
+
+.btn {
+    width: 270px;
+    border: 2px solid;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    margin: 0 auto;
+    border-radius: 5px;
+}

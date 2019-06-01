@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+      url("../font/ralewayregular.woff2") format("woff2"),
+      url("../font/ralewayregular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+      url("../font/ralewaybold.woff2") format("woff2"),
+      url("../font/ralewaybold.woff") format("woff");
+  }
+
+  @font-face {
+    font-family: "Raleway";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src:
+      url("../font/ralewayitalic.woff2") format("woff2"),
+      url("../font/ralewayitalic.woff") format("woff");
+  }
+
+  @font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src:
+      url("../font/ralewaythin.woff2") format("woff2"),
+      url("../font/ralewaythin.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src:
+      url("../font/ralewayextralight.woff2") format("woff2"),
+      url("../font/ralewayextralight.woff") format("woff");
+  }
